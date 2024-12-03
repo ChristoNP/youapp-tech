@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="url(#gradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="-6.8%" stop-color="#94783E"/>
+      <stop offset="16.76%" stop-color="#F3EDA6"/>
+      <stop offset="30.5%" stop-color="#F8FAE5"/>
+      <stop offset="49.6%" stop-color="#FFE2BE"/>
+      <stop offset="78.56%" stop-color="#D5BE88"/>
+      <stop offset="89.01%" stop-color="#F8FAE5"/>
+      <stop offset="100.43%" stop-color="#D5BE88"/>
+    </linearGradient>
+  </defs>
+  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+  <circle cx="12" cy="12" r="3"></circle>
+</svg>
